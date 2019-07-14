@@ -1,5 +1,9 @@
-# CSE-331
-Computer Organization
+# Gebze Technical University
+# Computer Engineering
+# CSE-331 Computer Organization
+
+Verilog & Assembly Projects
+
 
 Assignment 1 -> MIPS Assembly Code.
 
