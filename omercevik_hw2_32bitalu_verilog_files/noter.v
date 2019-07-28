@@ -1,0 +1,37 @@
+module noter(noted, a);
+	input [31:0]a;
+	output [31:0]noted;
+
+	not noting0(noted[0], a[0]);
+	not noting1(noted[1], a[1]);
+	not noting2(noted[2], a[2]);
+	not noting3(noted[3], a[3]);
+	not noting4(noted[4], a[4]);
+	not noting5(noted[5], a[5]);
+	not noting6(noted[6], a[6]);
+	not noting7(noted[7], a[7]);
+	not noting8(noted[8], a[8]);
+	not noting9(noted[9], a[9]);
+	not noting10(noted[10], a[10]);
+	not noting11(noted[11], a[11]);
+	not noting12(noted[12], a[12]);
+	not noting13(noted[13], a[13]);
+	not noting14(noted[14], a[14]);
+	not noting15(noted[15], a[15]);
+	not noting16(noted[16], a[16]);
+	not noting17(noted[17], a[17]);
+	not noting18(noted[18], a[18]);
+	not noting19(noted[19], a[19]);
+	not noting20(noted[20], a[20]);
+	not noting21(noted[21], a[21]);
+	not noting22(noted[22], a[22]);
+	not noting23(noted[23], a[23]);
+	not noting24(noted[24], a[24]);
+	not noting25(noted[25], a[25]);
+	not noting26(noted[26], a[26]);
+	not noting27(noted[27], a[27]);
+	not noting28(noted[28], a[28]);
+	not noting29(noted[29], a[29]);
+	not noting30(noted[30], a[30]);
+	not noting31(noted[31], a[31]);
+endmodule 
