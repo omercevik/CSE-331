@@ -4,6 +4,10 @@
 
 ALTERA QUARTUS II Verilog & MARS MIPS Assembly Projects
 
+Working Operating System:
+
+        Windows 10 Education
+        ALTERA QUARTUS II & MARS
 
 Assignment 1 -> MIPS Assembly Code.
 
