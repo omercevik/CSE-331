@@ -2,7 +2,7 @@
 # Computer Engineering
 # CSE-331 Computer Organization
 
-ALTERA QUARTUS II Verilog & MARS Assembly Projects
+ALTERA QUARTUS II Verilog & MARS MIPS Assembly Projects
 
 
 Assignment 1 -> MIPS Assembly Code.
